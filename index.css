@@ -1,0 +1,109 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 28, 2018, 3:59:18 PM
+    Author     : Owner
+*/
+html,body{
+    height: 100%;
+}
+.banner-image{
+    padding-top: 75px;
+    padding-bottom: 75px;
+    text-align: center;
+    color: #f8f8f8;
+    background-image: url("img/intro-bg_1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.banner-content{
+    margin: auto;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+}
+.footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.myPanel{
+    margin-top: 10%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+    font-weight: bold;
+}
+#submit_btn{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.margin_top{
+    margin-top: 50px;
+}
+.tableStyle{
+    max-width: 600px;
+}
+.buttonCenter{
+    display: block;
+}
+.buttonRight{
+    float: right;
+}
+#logout_panel{
+    padding-left: 50px;
+}
+.signup_err{
+    float: right;
+    padding-right: 5px;
+    color: red;
+    font-weight: bold;
+}
+.signin_err{
+    float: right;
+    padding-right: 5px;
+    color: red;
+    font-weight: bold;
+}
+.success-msg{
+    font-weight: bold;
+}
+.order-details{
+   
+    border-width: 2px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.message-pass-change{
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    max-width: 500px;
+    margin: auto;
+    color: #00b600;
+}
+.message-reg{
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    max-width: 500px;
+    margin: auto;
+    color: #00b600; 
+    font-weight: bold;
+}
