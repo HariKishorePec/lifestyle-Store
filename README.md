@@ -1,4 +1,8 @@
 # lifestyle-Store
+## A online store website
+You can view its <a href="http://hari.joomla.com/LifestyleStore/"> deployment here </a>
+
+
 A real life e-commerce site with following functionality:
 <li> New User Registration </li>
 <li> User Login</li>
@@ -6,7 +10,7 @@ A real life e-commerce site with following functionality:
 <li> Cart Items</li>
 <li> Users Profile</li>
 
-You can view its <a href="http://hari.joomla.com/LifestyleStore/"> deployment here </a>
+
 
 ## Technology used
 <li> HTML </li>
