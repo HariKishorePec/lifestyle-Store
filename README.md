@@ -1,6 +1,6 @@
 # lifestyle-Store
-## A online store website
-You can view its <a href="http://hari.joomla.com/LifestyleStore/"> deployment here </a>
+## An online store website
+You can view its <a href="http://hari.joomla.com/LifestyleStore/"> deployment here </a>. This is mobile first site. 
 
 
 A real life e-commerce site with following functionality:
@@ -18,4 +18,4 @@ A real life e-commerce site with following functionality:
 <li> Bootstrap</li>
 <li> PHP (server side scripting)</li>
 
-<p>This is mobile first site. </p>
+
